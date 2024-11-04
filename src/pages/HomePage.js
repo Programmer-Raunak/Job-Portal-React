@@ -60,7 +60,7 @@ const HomePage = ({ searchParams }) => {
             'X-RapidAPI-Key': process.env.REACT_APP_RAPIDAPI_KEY, 
             // Include the RapidAPI key from environment variables for API authentication.
 
-            'X-RapidAPI-Host': process.env.REACT_APP_RAPIDAPI_HOST, 
+            'X-RapidAPI-Host': 'faaf03c207msh2181f51adcaead5p138be4jsn533b518463a0, 
             // Include the RapidAPI host from environment variables.
 
           },
