@@ -57,10 +57,10 @@ const HomePage = ({ searchParams }) => {
           headers: { 
             // Set the required headers for the API request.
 
-            'X-RapidAPI-Key': process.env.REACT_APP_RAPIDAPI_KEY, 
+            'X-RapidAPI-Key': 'faaf03c207msh2181f51adcaead5p138be4jsn533b518463a0', 
             // Include the RapidAPI key from environment variables for API authentication.
 
-            'X-RapidAPI-Host': 'faaf03c207msh2181f51adcaead5p138be4jsn533b518463a0', 
+            'X-RapidAPI-Host': 'jsearch.p.rapidapi.com', 
             // Include the RapidAPI host from environment variables.
 
           },
